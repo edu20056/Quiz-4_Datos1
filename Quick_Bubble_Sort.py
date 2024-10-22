@@ -82,6 +82,6 @@ for i in range(10):
     print(f"El tiempo de Quick Sort fue de: {total_time}")
 
 
-#Both codes retrieves from:
+#Both codes retrieved from:
 #Quick sort: https://www.geeksforgeeks.org/python-program-for-quicksort/
 #Bubble sort: https://www.geeksforgeeks.org/python-program-for-bubble-sort/
